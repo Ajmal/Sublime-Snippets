@@ -26,7 +26,7 @@ rounded + tab
 	@include rounded( {1} );
 
 #### Clear
-b + tab
+br + tab
 	
 	<br class="clear">
 
